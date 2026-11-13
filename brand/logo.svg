@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240">
+  <rect width="640" height="240" rx="24" fill="#0D2235"/>
+  <g transform="translate(272 26) scale(.75)">
+    <path d="M5 90 L50 25 L68 50 L82 32 L125 90" fill="none" stroke="#9CC3D8" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M65 60 C70 70 76 74 76 80 A11 10 0 0 1 54 80 C54 74 60 70 65 60Z" fill="#F2F7FA"/>
+  </g>
+  <text x="330" y="160" text-anchor="middle" font-family="Italiana, 'Cormorant Garamond', Georgia, serif" font-size="64" letter-spacing="19" fill="#F2F7FA">KAELUM</text>
+  <text x="320" y="204" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="26" fill="#9CC3D8">glacial spring water</text>
+</svg>
