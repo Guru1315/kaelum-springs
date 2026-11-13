@@ -98,19 +98,7 @@ kaelum-springs/
 ├── campaign/        10 finished posts, 1080 × 1350 (WebP)
 ├── brand/           logo.svg and the logo on photography
 ├── assets/          README banner and campaign grid
-└── CREDITS.md       photographers and licences
 ```
-
-## Credits
-
-**Concept, art direction, copy and design:** Guru Charan.
-
-Kaelum Springs is a **concept brand** made for this portfolio. It isn't a real water company, and the spring, the figures and the products are fictional.
-
-The photography is free-licence stock found through [Openverse](https://openverse.org) (CC BY and CC0), then cropped, colour-graded and designed over. Every photographer is credited in **[CREDITS.md](CREDITS.md)**.
-
-<div align="center">
-<br>
 
 **[Portfolio](https://guru1315-portfolio.vercel.app)** · **[More graphic design work](https://guru1315-portfolio.vercel.app/graphic-designer)** · **[Aranya Living](https://github.com/Guru1315/Aaranya-Living)**
 
